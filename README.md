@@ -31,6 +31,15 @@ The project demonstrates fundamental computer networking concepts, including soc
 
 The application follows a centralized client-server architecture.
 
+
+### Detailed Network Architecture
+
+Explore the TCP/IP client-server architecture, connection
+establishment process, and message communication workflow.
+
+**[View Network Architecture and Communication Diagrams](docs/architecture.md)**
+
+
 **Client A ↔ TCP/IP ↔ Central Chat Server ↔ TCP/IP ↔ Client B**
 
 Additional clients can connect to the same server to participate in group communication.

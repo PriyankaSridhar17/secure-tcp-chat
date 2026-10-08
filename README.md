@@ -199,7 +199,7 @@ TCP/IP multi-client chat application using Python socket programming, multithrea
 
 The following screenshots are taken from the academic project's implementation and testing.
 
-### Screenshot 1
+### Group Chat Application Interface
 ![Application Screenshot 1](screenshots/image%201.png)
 
 ### Screenshot 2

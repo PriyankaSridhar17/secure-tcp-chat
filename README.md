@@ -202,17 +202,17 @@ The following screenshots are taken from the academic project's implementation a
 ### Group Chat Application Interface
 ![Application Screenshot 1](screenshots/image%201.png)
 
-### Screenshot 2
-![Application Screenshot 2](screenshots/image%202.png)
+### TCP/IP Client-Server Connection Establishment
+![Client-Server Connection](screenshots/image%202.png)
 
-### Screenshot 3
-![Application Screenshot 3](screenshots/image%203.png)
+### Client Nickname Assignment and User Identification
+![Nickname Management](screenshots/image%203.png)
 
-### Screenshot 4
-![Application Screenshot 4](screenshots/image%204.png)
+### Real-Time Messaging and File Transfer
+![Message and File Transfer](screenshots/image%204.png)
 
-### Screenshot 5
-![Application Screenshot 5](screenshots/image%205.png)
+### File Transfer Size Validation (1 MB Limit)
+![File Size Validation](screenshots/image%205.png)
 
-### Screenshot 6
-![Application Screenshot 6](screenshots/image%206.png)
+###  Client Disconnection and Session Termination
+![Client Disconnection](screenshots/image%206.png)

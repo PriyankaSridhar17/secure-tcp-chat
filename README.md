@@ -192,3 +192,27 @@ Potential future enhancements include:
 
 [GitHub Profile](https://github.com/PriyankaSridhar17) | [Network Engineering Portfolio](https://priyankasridhar17.github.io/priyanka-network-portfolio/)# secure-tcp-chat
 TCP/IP multi-client chat application using Python socket programming, multithreading, GUI communication, and file transfer.
+
+---
+
+## Project Demonstration & Screenshots
+
+The following screenshots are taken from the academic project's implementation and testing.
+
+### Screenshot 1
+![Application Screenshot 1](screenshots/image%201.png)
+
+### Screenshot 2
+![Application Screenshot 2](screenshots/image%202.png)
+
+### Screenshot 3
+![Application Screenshot 3](screenshots/image%203.png)
+
+### Screenshot 4
+![Application Screenshot 4](screenshots/image%204.png)
+
+### Screenshot 5
+![Application Screenshot 5](screenshots/image%205.png)
+
+### Screenshot 6
+![Application Screenshot 6](screenshots/image%206.png)
